@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Telefono</string>
+    <string name="contactos">Contactos</string>
+    <string name="llamar">Llamar</string>
+    <string name="cel">Cel: </string>
+    <string name="correo">Correo: </string>
+    <string name="nombre">Jose Díaz</string>
+    <string name="numero">987987987</string>
+    <string name="gmail">jose@gmail.com</string>
+</resources>
